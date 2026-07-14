@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://zisch-it.de">
-    <img src="./assets/zisch-logo-blue.png" width="360" alt="Zisch">
+    <img src="https://raw.githubusercontent.com/Zisch-IT/.github/main/profile/assets/zisch-logo-blue.png" width="360" alt="Zisch">
   </a>
 
   <h1>Dienstplanung, die sich selbst organisiert.</h1>
@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://zisch-it.de/demo-vereinbaren/">
-    <img src="./assets/zisch-dashboard.webp" width="1100" alt="Zisch Dashboard für Personalplanung, Zeiterfassung und Abwesenheiten">
+    <img src="https://raw.githubusercontent.com/Zisch-IT/.github/main/profile/assets/zisch-dashboard.webp" width="1100" alt="Zisch Dashboard für Personalplanung, Zeiterfassung und Abwesenheiten">
   </a>
 </div>
 
